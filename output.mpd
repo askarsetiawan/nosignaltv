@@ -19,7 +19,7 @@
       <cenc:pssh>AAAAJ3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAIzikAAAAAAD6kAAAAAAA=</cenc:pssh>
       <cenc:clearkey>
         <kid>Mm9u7CqtT+eUDcCTaVSHtg</kid>
-        <spcUrl>http://example.com/clearkey.json</spcUrl>
+        <spcUrl>https://raw.githubusercontent.com/askarsetiawan/nosignaltv/main/clearkey.json</spcUrl>
       </cenc:clearkey>
     </ContentProtectionScheme>
   </ContentProtection>
